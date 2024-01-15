@@ -1,3 +1,4 @@
+package org.example;
 public class Post {
     public PostBday birthday;
     public String name;
